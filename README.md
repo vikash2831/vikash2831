@@ -84,7 +84,7 @@
 </td>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/tableau/E97627" width="65"/><br><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="65"/><br><br>
 <b>Tableau</b>
 </td>
 
