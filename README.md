@@ -57,17 +57,23 @@
 
 <img src="https://skillicons.dev/icons?i=python,mysql" />
 
+Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MySQL
+
 <br><br><br>
 
 # 📊 Data Visualization & BI Tools
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau,excel" />
 
+Power BI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tableau &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excel
+
 <br><br><br>
 
 # 📚 Python Libraries
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn" />
+
+NumPy &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pandas &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Matplotlib &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Seaborn
 
 <br><br><br>
 
