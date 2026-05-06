@@ -28,7 +28,7 @@
 
 # 🚀 About Me
 
-🎯 Aspiring **Data Analyst** passionate about transforming raw data into meaningful business insights. :contentReference[oaicite:0]{index=0}
+🎯 Aspiring **Data Analyst** passionate about transforming raw data into meaningful business insights.
 
 📊 Skilled in:
 - Power BI Dashboard Development
@@ -51,27 +51,41 @@
 
 <div align="center">
 
-## 💻 Programming Languages
+## 💻 Programming & Data Analysis
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,html,css" />
+<img src="https://skillicons.dev/icons?i=python,mysql" />
 
 <br><br>
 
-## 📊 Data Analytics & Visualization
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-
-<br>
+## 📊 Data Visualization & BI Tools
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 <br><br>
 
-## ⚙️ Tools & Platforms
+## 📚 Python Libraries
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,docker" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge"/>
+
+<br><br>
+
+## ⚙️ Analytics Skills
+
+<img src="https://img.shields.io/badge/EDA-Exploratory_Data_Analysis-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Cleaning-Expert-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Business_Intelligence-Analytics-orange?style=for-the-badge"/>
 
 </div>
 
@@ -82,13 +96,11 @@
 ## 📌 Data Analyst Intern — PUMO TECHNOVATION INDIA PVT LTD
 📍 Coimbatore | September 2025
 
-- Cleaned and preprocessed datasets
+- Cleaned and preprocessed datasets by handling missing values and duplicates
 - Performed Exploratory Data Analysis (EDA)
-- Extracted insights using SQL queries
-- Built Power BI and Excel dashboards
-- Supported business decision-making with analytics
-
-:contentReference[oaicite:1]{index=1}
+- Used SQL queries to extract and analyze structured data
+- Built dashboards using Power BI and Excel
+- Generated insights to support business decision-making
 
 ---
 
@@ -96,31 +108,36 @@
 
 ## 📊 Amazon Sales Dashboard
 
-- Built an interactive Power BI dashboard
-- Analyzed revenue, profit, and product performance
-- Identified sales trends and top categories
+- Developed an interactive Power BI dashboard to analyze Amazon sales data
+- Tracked KPIs such as revenue, profit, and product performance
+- Identified top-performing categories and sales trends
 
-## 🍕 Pizza Sales Dashboard
-
-- Analyzed pizza sales data using SQL and Excel
-- Built KPI dashboards and trend analysis reports
-- Generated insights for sales improvement
-
-:contentReference[oaicite:2]{index=2}
+🔗 Add Project Link Here
 
 ---
 
-# 📜 Certifications
+## 🍕 Pizza Sales Dashboard
 
-🏅 **Data Analytics Course — Pumo Technovation**
+- Analyzed pizza sales dataset using SQL and Excel
+- Built dashboard to track daily sales, top pizzas, and order trends
+- Provided insights to improve sales strategy
 
-- Python
-- SQL
-- Excel
-- Power BI
-- Tableau
+🔗 Add Project Link Here
 
-:contentReference[oaicite:3]{index=3}
+---
+
+# 📜 Certification
+
+## 🏅 Data Analytics Course — Pumo Technovation
+
+- Gained hands-on experience in:
+  - Python
+  - SQL
+  - Excel
+  - Power BI
+  - Tableau
+
+- Worked on real-world datasets to perform EDA and build dashboards
 
 ---
 
@@ -161,6 +178,14 @@
 <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
 </p>
+
+---
+
+# 📚 Areas Of Interest
+
+- 📊 Data Analysis & Visualization
+- 📈 Business Intelligence
+- 🤖 Data-Driven Decision Making
 
 ---
 
