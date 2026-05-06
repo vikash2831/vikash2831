@@ -53,31 +53,82 @@
 
 <div align="center">
 
-# 💻 Programming & Data Analysis
+## 💻 Programming & Data Analysis
 
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+<table>
+<tr>
 
-Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MySQL
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="65"/><br><br>
+<b>Python</b>
+</td>
 
-<br><br><br>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="65"/><br><br>
+<b>MySQL</b>
+</td>
 
-# 📊 Data Visualization & BI Tools
+</tr>
+</table>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau,excel" />
+<br><br>
 
-Power BI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tableau &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Excel
+## 📊 Data Visualization & BI Tools
 
-<br><br><br>
+<table>
+<tr>
 
-# 📚 Python Libraries
+<td align="center" width="140">
+<img src="https://img.icons8.com/color/96/power-bi.png" width="65"/><br><br>
+<b>Power BI</b>
+</td>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn" />
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/tableau/E97627" width="65"/><br><br>
+<b>Tableau</b>
+</td>
 
-NumPy &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pandas &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Matplotlib &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Seaborn
+<td align="center" width="140">
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="65"/><br><br>
+<b>Excel</b>
+</td>
 
-<br><br><br>
+</tr>
+</table>
 
-# ⚙️ Analytics Skills
+<br><br>
+
+## 📚 Python Libraries
+
+<table>
+<tr>
+
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/numpy/013243" width="65"/><br><br>
+<b>NumPy</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://cdn.simpleicons.org/pandas/150458" width="65"/><br><br>
+<b>Pandas</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="65"/><br><br>
+<b>Matplotlib</b>
+</td>
+
+<td align="center" width="140">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="65"/><br><br>
+<b>Seaborn</b>
+</td>
+
+</tr>
+</table>
+
+<br><br>
+
+## ⚙️ Analytics Skills
 
 <img src="https://img.shields.io/badge/EDA-Exploratory_Data_Analysis-blue?style=for-the-badge"/>
 
